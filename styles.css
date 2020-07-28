@@ -14,8 +14,7 @@ body{
     display:flex;
     flex-direction: column;
     justify-content: stretch;
-    background-image: url(/img/img-noise-361x370\ \(1\).png);
-    /*background: #FFFDCE;*/
+    background: #FFFDCE;
     padding: 20px;
     border-radius: 10px;
     color: #7B3F00;
