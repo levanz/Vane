@@ -5,7 +5,7 @@ body{
 
 .contenedor{
     display: flex;
-    justify-content: stretch;
+    justify-content: center;
     background: #7B3F00;
     padding: 15px;
 }
@@ -23,30 +23,29 @@ body{
 .encabezado{
     align-self: flex-end;
     /*font-family: 'Merienda', cursive;*/
-    font-family: 'Overlock', cursive;
+    font-family: 'Montserrat', sans-serif;    
     font-weight: bold;
     font-size: 1.5rem;
 }
 
 .de-para{
-    font-family: 'Overlock', cursive;
+    font-family: 'Montserrat', sans-serif;    
     font-weight: bold;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 .saludo{
-    font-family: 'Arima Madurai', cursive;
-    font-weight: bold;
+    font-family: 'Palanquin', sans-serif;
     font-size: 1rem;
 }
 
 .cuerpo{
-    font-family: 'Arima Madurai', cursive;
-    font-weight: bold;
+    font-family: 'Palanquin', sans-serif;
+    text-align: justify;
     font-size: 1rem;
 }
 
 .despedida{
-    font-family: 'Overlock', cursive;
+    font-family: 'Montserrat', sans-serif;    
     font-weight: bold;
     font-size: 1.2rem;
 }
